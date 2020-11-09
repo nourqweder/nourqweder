@@ -7,3 +7,6 @@
 
 
 ![Alt text](/event-image1.jpg?raw=true "Machine Learning")
+
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=nourqweder)
