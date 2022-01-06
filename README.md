@@ -2,7 +2,7 @@
 
 - 🔭 I’m a master student @ Linköping University.
 - 🌱 I’m currently learning Statistics and Machine Learning.
-- ⚡ I’m coding in R/Python/C#/C++/SQL.
+- ⚡ I’m coding in R/Python/C#/C++/SQL/DevOps.
 - ☕ I drink good quality coffee.
 
 
